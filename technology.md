@@ -5,4 +5,4 @@ Clicks X deploys an end-to-end encrypted (E2EE) messaging protocol that complete
 
 ## 2. Regulatory Foundation
 * **U.S. MSB License**: Fully registered and legally sanctioned to conduct cross-border digital asset transmission and fiat off-ramp settlement globally.
-* **The Clicks X Foundation**: Structured under a strict compliance ledger to ensure long-term decentralized governance and asset clearing transparency[cite: 1].
+* **The Clicks X Foundation**: Structured under a strict compliance ledger to ensure long-term decentralized governance and asset clearing transparency.
